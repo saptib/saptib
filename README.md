@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @saptib
-- 👀 I’m interested in 3D animation
-- 🌱 I’m currently learning to Code
-- 📫 dassaptib@gmail.com
+Interested in 3D animation
+
 
 <!---
 saptib/saptib is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
